@@ -1,7 +1,7 @@
 //
 // MQ2GMChatCC.cpp
 // written by Spiken
-// https://github.com/spik3n/MQ2Camera
+// https://github.com/spik3n/MQ2GMChatCC
 //
 
 #include <mq/Plugin.h>
