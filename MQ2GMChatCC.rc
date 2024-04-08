@@ -69,14 +69,14 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "MacroQuest"
 #ifdef _DEBUG
-            VALUE "FileDescription", "MQ2Foo Debug Version"
+            VALUE "FileDescription", "MQ2GMChatCC Debug Version"
 #else
-            VALUE "FileDescription", "MQ2Foo Release Version"
+            VALUE "FileDescription", "MQ2GMChatCC Release Version"
 #endif
             VALUE "FileVersion", "1.0"
-            VALUE "InternalName", "MQ2Foo.dll"
-            VALUE "OriginalFilename", "MQ2Foo.dll"
-            VALUE "ProductName", "MQ2Foo"
+            VALUE "InternalName", "MQ2GMChatCC.dll"
+            VALUE "OriginalFilename", "MQ2GMChatCC.dll"
+            VALUE "ProductName", "MQ2GMChatCC"
             VALUE "ProductVersion", "1.0"
         END
     END
